@@ -1,0 +1,4 @@
+analysis,statistic,transformed_f,df1,df2,repetitions,p_value,clustering_handled
+Conventional item-level Bowker benchmark,21.97525252525252,,10,,,0.015231170922261915,FALSE
+Participant-level Hotelling T2,5.614453798288971,1.343458587447718,4,67,,0.26304253933374117,TRUE
+Participant-level sign-flip permutation,5.614453798288971,,,,100000,0.22796772032279677,TRUE

@@ -1,0 +1,6 @@
+pretest_purpose,posttest_immediate_consumption,posttest_friends_or_gifts,posttest_family_support,posttest_learning_or_education,posttest_saving_for_future
+immediate_consumption,41,8,4,1,25
+friends_or_gifts,8,17,15,1,13
+family_support,5,3,18,1,17
+learning_or_education,3,9,4,6,5
+saving_for_future,19,20,19,11,224
