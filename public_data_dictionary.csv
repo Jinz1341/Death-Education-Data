@@ -1,0 +1,59 @@
+study,variable_name,label,data_type,allowed_values_or_range,missing_value,analysis_role,source_variable,missing_n
+Study 1,participant_id,New non-identifying participant ID,string,Unique random ID,blank,identifier,generated,0
+Study 1,story_condition,Assigned narrative condition,category,ant_and_grasshopper; last_leaf_maple_valley,blank,grouping variable,story_condition,0
+Study 1,gender,Participant gender,category,female; male,blank,demographic,gender,0
+Study 1,age_years,Age in years,decimal,9-16,blank,demographic,age,11
+Study 1,school_level,School cohort,category,grade_4; grade_8,blank,developmental grouping variable,school_level,0
+Study 1,ses_hollingshead,Hollingshead-type family socioeconomic-status score,decimal,11-80.5,blank,covariate,ses_hollingshead,0
+Study 1,ln_k_pre,Natural-log-transformed K at pretest,decimal,Continuous,blank,primary outcome,k_log_pre,0
+Study 1,ln_k_post,Natural-log-transformed K at posttest,decimal,Continuous,blank,primary outcome,k_log_post,0
+Study 1,allocation_immediate_pre,Immediate allocation percentage at pretest,decimal,0-100,blank,primary outcome,temporal_immediate_pre,0
+Study 1,allocation_immediate_post,Immediate allocation percentage at posttest,decimal,0-100,blank,primary outcome,temporal_immediate_post,0
+Study 1,allocation_short_pre,Short-term allocation percentage at pretest,decimal,0-100,blank,primary outcome,temporal_short_pre,0
+Study 1,allocation_short_post,Short-term allocation percentage at posttest,decimal,0-100,blank,primary outcome,temporal_short_post,0
+Study 1,allocation_long_pre,Long-term allocation percentage at pretest,decimal,0-100,blank,primary outcome,temporal_long_pre,0
+Study 1,allocation_long_post,Long-term allocation percentage at posttest,decimal,0-100,blank,primary outcome,temporal_long_post,0
+Study 1,subjective_time_pre,Mean subjective-duration rating at pretest,decimal,0-100,blank,exploratory outcome,time_perception_main_pre,0
+Study 1,subjective_time_post,Mean subjective-duration rating at posttest,decimal,0-100,blank,exploratory outcome,time_perception_main_post,0
+Study 2,participant_id,New non-identifying participant ID,string,Unique random ID,blank,identifier,generated,0
+Study 2,story_condition,Assigned narrative condition,category,badgers_parting_gifts; fall_of_freddie_leaf; goodbye_grandma_erma,blank,grouping variable,story_condition,0
+Study 2,gender,Participant gender,category,female; male,blank,demographic,gender,0
+Study 2,age_years,Age in years,decimal,8-16,blank,demographic,age,0
+Study 2,ln_k_pre,Natural-log-transformed K at pretest,decimal,Continuous,blank,primary outcome,k_log_pre,0
+Study 2,ln_k_post,Natural-log-transformed K at posttest,decimal,Continuous,blank,primary outcome,k_log_post,0
+Study 2,allocation_immediate_pre,Immediate allocation percentage at pretest,decimal,0-100,blank,primary outcome,temporal_immediate_pre,0
+Study 2,allocation_immediate_post,Immediate allocation percentage at posttest,decimal,0-100,blank,primary outcome,temporal_immediate_post,0
+Study 2,allocation_short_pre,Short-term allocation percentage at pretest,decimal,0-100,blank,primary outcome,temporal_short_pre,0
+Study 2,allocation_short_post,Short-term allocation percentage at posttest,decimal,0-100,blank,primary outcome,temporal_short_post,0
+Study 2,allocation_long_pre,Long-term allocation percentage at pretest,decimal,0-100,blank,primary outcome,temporal_long_pre,0
+Study 2,allocation_long_post,Long-term allocation percentage at posttest,decimal,0-100,blank,primary outcome,temporal_long_post,0
+Study 2,subjective_time_pre,Mean subjective-duration rating at pretest,decimal,0-100,blank,exploratory outcome,three raw duration items averaged to 0-100; approved row-192 correction,0
+Study 2,subjective_time_post,Mean subjective-duration rating at posttest,decimal,0-100,blank,exploratory outcome,three raw duration items averaged to 0-100; approved row-192 correction,0
+Study 2,purpose_pre_01,Stated purpose for intertemporal-choice item 1 at pretest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_pre_1,0
+Study 2,purpose_pre_02,Stated purpose for intertemporal-choice item 2 at pretest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_pre_2,0
+Study 2,purpose_pre_03,Stated purpose for intertemporal-choice item 3 at pretest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_pre_3,0
+Study 2,purpose_pre_04,Stated purpose for intertemporal-choice item 4 at pretest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_pre_4,0
+Study 2,purpose_pre_05,Stated purpose for intertemporal-choice item 5 at pretest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_pre_5,0
+Study 2,purpose_pre_06,Stated purpose for intertemporal-choice item 6 at pretest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_pre_6,0
+Study 2,purpose_pre_07,Stated purpose for intertemporal-choice item 7 at pretest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_pre_7,0
+Study 2,intention_pre_01,Implementation-intention rating for item 1 at pretest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_pre_1,0
+Study 2,intention_pre_02,Implementation-intention rating for item 2 at pretest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_pre_2,0
+Study 2,intention_pre_03,Implementation-intention rating for item 3 at pretest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_pre_3,0
+Study 2,intention_pre_04,Implementation-intention rating for item 4 at pretest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_pre_4,0
+Study 2,intention_pre_05,Implementation-intention rating for item 5 at pretest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_pre_5,0
+Study 2,intention_pre_06,Implementation-intention rating for item 6 at pretest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_pre_6,0
+Study 2,intention_pre_07,Implementation-intention rating for item 7 at pretest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_pre_7,0
+Study 2,purpose_post_01,Stated purpose for intertemporal-choice item 1 at posttest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_post_1,0
+Study 2,purpose_post_02,Stated purpose for intertemporal-choice item 2 at posttest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_post_2,0
+Study 2,purpose_post_03,Stated purpose for intertemporal-choice item 3 at posttest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_post_3,0
+Study 2,purpose_post_04,Stated purpose for intertemporal-choice item 4 at posttest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_post_4,0
+Study 2,purpose_post_05,Stated purpose for intertemporal-choice item 5 at posttest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_post_5,0
+Study 2,purpose_post_06,Stated purpose for intertemporal-choice item 6 at posttest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_post_6,0
+Study 2,purpose_post_07,Stated purpose for intertemporal-choice item 7 at posttest,category,family_support; friends_or_gifts; immediate_consumption; learning_or_education; saving_for_future,blank,exploratory outcome,itc_purpose_post_7,0
+Study 2,intention_post_01,Implementation-intention rating for item 1 at posttest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_post_1,0
+Study 2,intention_post_02,Implementation-intention rating for item 2 at posttest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_post_2,0
+Study 2,intention_post_03,Implementation-intention rating for item 3 at posttest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_post_3,0
+Study 2,intention_post_04,Implementation-intention rating for item 4 at posttest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_post_4,0
+Study 2,intention_post_05,Implementation-intention rating for item 5 at posttest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_post_5,0
+Study 2,intention_post_06,Implementation-intention rating for item 6 at posttest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_post_6,0
+Study 2,intention_post_07,Implementation-intention rating for item 7 at posttest,integer,1=unlikely; 2=possible; 3=very_likely,blank,exploratory outcome,itc_intention_post_7,0
