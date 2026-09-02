@@ -57,4 +57,3 @@ The participant-clustered linear model tests implementation intention as a funct
 ## Design boundary
 
 These are pre-post comparisons without a neutral or no-session control group. They describe changes observed across the educational sessions.
-
