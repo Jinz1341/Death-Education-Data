@@ -1,0 +1,10 @@
+.DS_Store
+~$*.xlsx
+*.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+*.bak
+*~
+__pycache__/
+
