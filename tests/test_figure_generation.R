@@ -24,4 +24,3 @@ stopifnot(statistics$n[statistics$study == "Study 1"][1] == 230L)
 stopifnot(statistics$n[statistics$study == "Study 2"][1] == 184L)
 
 cat("Figure-generation contract passed.\n")
-
