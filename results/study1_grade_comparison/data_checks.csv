@@ -1,0 +1,9 @@
+check,value,expected
+analytic_n,230,230
+unique_participant_ids,230,230
+grade_4_n,104,104
+grade_8_n,126,126
+missing_age_years,9,9
+max_pre_allocation_total_error,2.842170943040401e-14,<= 1e-8
+max_post_allocation_total_error,1.4210854715202004e-14,<= 1e-8
+
