@@ -1,0 +1,2 @@
+analysis,term,response_components,redundant_component,pillai_trace,approx_f,df1,df2,p_value
+grade_difference_in_allocation_change,school_level,change_immediate + change_short,change_long,0.05299019985911603,6.350924439340465,2,227,0.002071250959802767
