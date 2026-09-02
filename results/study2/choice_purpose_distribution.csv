@@ -1,0 +1,21 @@
+wave,choice,purpose,count,percent,purpose_label
+pretest,LL,saving_for_future,508,63.659147869674186,Saving for future
+pretest,LL,immediate_consumption,90,11.278195488721805,Immediate consumption
+pretest,LL,family_support,77,9.649122807017545,Family support
+pretest,LL,learning_or_education,43,5.388471177944862,Learning or education
+pretest,LL,friends_or_gifts,80,10.025062656641603,Friends or gifts
+pretest,SS,saving_for_future,303,61.83673469387755,Saving for future
+pretest,SS,immediate_consumption,75,15.306122448979592,Immediate consumption
+pretest,SS,family_support,35,7.142857142857143,Family support
+pretest,SS,learning_or_education,27,5.510204081632653,Learning or education
+pretest,SS,friends_or_gifts,50,10.204081632653061,Friends or gifts
+posttest,LL,saving_for_future,469,63.80952380952381,Saving for future
+posttest,LL,immediate_consumption,87,11.83673469387755,Immediate consumption
+posttest,LL,family_support,70,9.523809523809524,Family support
+posttest,LL,learning_or_education,39,5.3061224489795915,Learning or education
+posttest,LL,friends_or_gifts,70,9.523809523809524,Friends or gifts
+posttest,SS,saving_for_future,318,57.504520795660035,Saving for future
+posttest,SS,immediate_consumption,98,17.72151898734177,Immediate consumption
+posttest,SS,family_support,56,10.126582278481013,Family support
+posttest,SS,learning_or_education,25,4.520795660036167,Learning or education
+posttest,SS,friends_or_gifts,56,10.126582278481013,Friends or gifts

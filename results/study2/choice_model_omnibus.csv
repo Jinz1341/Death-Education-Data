@@ -1,0 +1,5 @@
+model,term,coefficients_tested,chi_square,df,p_value
+clustered_choice_logit,wave,1,2.484197088033874,1,0.1149950197458371
+clustered_choice_logit,purpose,4,8.465460949268378,4,0.07594109891025952
+clustered_choice_logit,item,6,180.7113196420713,6,2.396229920598119e-36
+clustered_choice_logit,wave:purpose,4,2.596848258892266,4,0.6273815426491153

@@ -1,0 +1,11 @@
+wave,purpose,count,percent,purpose_label
+pretest,saving_for_future,811,62.96583850931677,Saving for future
+pretest,immediate_consumption,165,12.81055900621118,Immediate consumption
+pretest,family_support,112,8.695652173913043,Family support
+pretest,learning_or_education,70,5.434782608695652,Learning or education
+pretest,friends_or_gifts,130,10.093167701863354,Friends or gifts
+posttest,saving_for_future,787,61.10248447204969,Saving for future
+posttest,immediate_consumption,185,14.363354037267081,Immediate consumption
+posttest,family_support,126,9.782608695652174,Family support
+posttest,learning_or_education,64,4.968944099378882,Learning or education
+posttest,friends_or_gifts,126,9.782608695652174,Friends or gifts

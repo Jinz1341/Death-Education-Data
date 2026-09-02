@@ -1,0 +1,6 @@
+model,term,coefficients_tested,chi_square,df,p_value
+clustered_intention_linear,wave,1,16.09410796159109,1,6.027126454759384e-5
+clustered_intention_linear,choice,1,3.701997944644993,1,0.05434735429505241
+clustered_intention_linear,purpose,4,9.561147353248737,4,0.0485058559614533
+clustered_intention_linear,item,6,5.764103167861044,6,0.4501275049493202
+clustered_intention_linear,wave:choice,1,2.319539394550923,1,0.12775785166811077
