@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite this repository when using the data or analysis code. Jin Zhang and Yangyang Jin contributed equally and share first authorship; Xiaotian Wang is the corresponding author."
+title: "Death Education Studies: De-identified Data and Analysis Materials"
+type: dataset
+date-released: 2026-08-21
+authors:
+  - family-names: "Zhang"
+    given-names: "Jin"
+  - family-names: "Jin"
+    given-names: "Yangyang"
+  - family-names: "Wang"
+    given-names: "Xiaotian"
+contact:
+  - family-names: "Wang"
+    given-names: "Xiaotian"
+repository-code: "https://github.com/Jinz1341/Death-Education-Data"
+abstract: "De-identified participant-level data and reproducible analysis code for two school-based studies of death-related reflection, delay discounting, resource allocation across temporal accounts, subjective feeling of time passage, and stated resource-use intentions among school-aged youth."
+keywords:
+  - death education
+  - adolescence
+  - delay discounting
+  - intertemporal choice
+  - resource allocation
